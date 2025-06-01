@@ -1,5 +1,6 @@
 # MARKETING-ANALYTICS
 ECOMMERCE MARKETING
+SOLVED THE ISSUES USING PYTHON,SENTIMENT ANALYSIS, SQL QUERIES, DATA MODELING, POWER BI DASHBOARDS
 
 ShopEasy, an online retail business, is facing reduced customer engagement and conversion rates despite launching several new online marketing campaigns. They are reaching out to you to help conduct a detailed analysis and identify areas for improvement in their marketing strategies.
 
